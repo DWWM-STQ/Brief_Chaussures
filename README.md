@@ -1,4 +1,4 @@
-# Commerce de chaussures
+# [Commerce de chaussures](./profile/Doc/shoes.pdf); 
 Auteur : Didier ROLLAND <br>
 Binôme : Alexy & Logan
 
